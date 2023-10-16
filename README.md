@@ -12,7 +12,6 @@
 - Rp50.000 untuk pergantian / perpindahan aplikasi ke komputer lainnya
 - Gratis biaya update jika update bugs / minor
 - Gratis biaya bulanan / tahunan
-- Rp100.000 untuk update fitur (menyesuaikan)
   
 ## Cara penggunaan :
 1. Download file dalam bentuk .zip
